@@ -1,2 +1,2 @@
-user :jwd
-pass :1234
+user : admin
+pass : admin

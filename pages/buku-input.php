@@ -25,7 +25,11 @@
 		</tr>
 		<tr>
 			<td class="label-formulir">Status</td>
-			<td class="isian-formulir"><input type="text" name="status" class="isian-formulir isian-formulir-border"></td>
+			<td class="isian-formulir"><input type="radio" name="status" value="Dipinjam">Dipinjam</label></td>
+		</tr>
+		<tr>
+			<td class="label-formulir"></td>
+			<td class="isian-formulir"><input type="radio" name="status" value="Tersedia">Tersedia</td>
 		</tr>
 		<tr>
 			<td class="label-formulir"></td>
